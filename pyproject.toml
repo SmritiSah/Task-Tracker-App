@@ -2,7 +2,7 @@
 name = "smriti-todo-cli"
 version = "0.1.0"
 description = "A simple command-line to-do application"
-authors = ["Smriti Sah <your-email@example.com>"]
+authors = ["Smriti Sah smritisah863@gmail.com"]
 readme = "README.md"
 packages = [{include = "my_package"}]  # <--- Add this line
 
